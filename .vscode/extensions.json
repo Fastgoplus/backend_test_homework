@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.flake8",
+        "fnando.linter",
+        "mccarter.start-git-bash",
+        "kevinglasson.cornflakes-linter",
+        "matangover.mypy"
+    ]
+}
